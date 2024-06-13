@@ -40,4 +40,4 @@ function mergeSort(arr) {
 }
 
 
-module.exports = { merge, mergeSort};
+module.exports = { merge, mergeSort };
